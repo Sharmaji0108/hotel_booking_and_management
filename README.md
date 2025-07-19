@@ -36,7 +36,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 - 🧪 **Postman-tested REST APIs**
 
 ## Flow Chart
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/20e05bfa-1485-4481-bc33-9060c7d79520)
 
 ## 🛠 Tech Stack
 
