@@ -3,11 +3,11 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 
 
 ### 📬 Postman
-![image alt]<img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1f53416d-9bf2-4b89-8c9b-f08acd2f8067" />
+<img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1f53416d-9bf2-4b89-8c9b-f08acd2f8067" />
 
 ### 🧑‍💼 Users Table (MySQL)
-![image alt]<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/128911a7-44a6-4388-92db-774ae533dd08" />
-![image alt]<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4fc65d5-daa8-4a44-a34f-5415806871c0" />
+<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/128911a7-44a6-4388-92db-774ae533dd08" />
+<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4fc65d5-daa8-4a44-a34f-5415806871c0" />
 
 
 ## 🚀 Features
@@ -22,7 +22,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 - 🧪 **Postman-tested REST APIs**
 
 ## Flow Chart
-![image alt]<img width="500" height="750" alt="Image" src="https://github.com/user-attachments/assets/92f42bca-1dca-46f7-924b-395d48fce7d7" />
+<img width="500" height="750" alt="Image" src="https://github.com/user-attachments/assets/92f42bca-1dca-46f7-924b-395d48fce7d7" />
 
 ## 🛠 Tech Stack
 
