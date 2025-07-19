@@ -3,7 +3,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 
 
 ### 💻 Project Structure (Eclipse)
-![App Structure]
+![image alt]()
 
 ### 🔐 AWS S3 Integration for Room Images
 ![image alt]()
