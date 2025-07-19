@@ -5,6 +5,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 ### 📬 Postman
 <img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1f53416d-9bf2-4b89-8c9b-f08acd2f8067" />
 
+
 ### 🧑‍💼 Users Table (MySQL)
 <img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/128911a7-44a6-4388-92db-774ae533dd08" />
 <img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4fc65d5-daa8-4a44-a34f-5415806871c0" />
