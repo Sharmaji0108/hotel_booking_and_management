@@ -2,26 +2,12 @@
 A Hotel Booking and Management System built with Spring Boot and Microservices architecture. It supports secure user authentication, hotel and room management, real-time booking, and role-based access for admins, hotel managers, and customers. Features include RESTful APIs, JWT authentication, and MySQL integration.
 
 
-### 💻 Project Structure (Eclipse)
-![image alt]()
-
-### 🔐 AWS S3 Integration for Room Images
-![image alt]()
-
-### 📬 Postman - User Registration API
-![image alt]()
-
-### 🔑 Admin - Get All Users (With Token Auth)
-![image alt]()
-
-### 🛏 Room Fetch API
-![image alt]()
+### 📬 Postman
+![image alt]<img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1f53416d-9bf2-4b89-8c9b-f08acd2f8067" />
 
 ### 🧑‍💼 Users Table (MySQL)
-![image alt]()
-
-### 🏨 Rooms Table (MySQL)
-![image alt]()
+![image alt]<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/128911a7-44a6-4388-92db-774ae533dd08" />
+![image alt]<img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4fc65d5-daa8-4a44-a34f-5415806871c0" />
 
 
 ## 🚀 Features
@@ -36,7 +22,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 - 🧪 **Postman-tested REST APIs**
 
 ## Flow Chart
-![image alt](https://github.com/user-attachments/assets/20e05bfa-1485-4481-bc33-9060c7d79520)
+![image alt]<img width="500" height="750" alt="Image" src="https://github.com/user-attachments/assets/92f42bca-1dca-46f7-924b-395d48fce7d7" />
 
 ## 🛠 Tech Stack
 
