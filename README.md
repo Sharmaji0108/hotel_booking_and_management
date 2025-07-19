@@ -36,7 +36,7 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 - 🧪 **Postman-tested REST APIs**
 
 ## Flow Chart
-![image alt](ChatGPT Image Jul 20, 2025, 01_31_13 AM.png)
+![image alt]
 
 ## 🛠 Tech Stack
 
