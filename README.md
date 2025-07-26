@@ -3,12 +3,16 @@ A Hotel Booking and Management System built with Spring Boot and Microservices a
 
 
 ### 📬 Postman
-<img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1f53416d-9bf2-4b89-8c9b-f08acd2f8067" />
+<img width="1000" height="530" alt="Image" src="https://github.com/user-attachments/assets/1e234e7e-5e43-484b-9569-39c7e80ca99a" />
 
 
-### 🧑‍💼 Users Table (MySQL)
+### 🧑‍💼 SQL Tables
 <img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/128911a7-44a6-4388-92db-774ae533dd08" />
 <img width="1000" height="417" alt="Image" src="https://github.com/user-attachments/assets/a4fc65d5-daa8-4a44-a34f-5415806871c0" />
+
+
+### 🔐 AWS S3 Integration for Room Images
+<img width="1000" height="457" alt="Image" src="https://github.com/user-attachments/assets/9db8364e-e4f5-49c6-8327-d14f3012b4be" />
 
 
 ## 🚀 Features
